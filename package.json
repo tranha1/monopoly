@@ -1,0 +1,23 @@
+{
+  "name": "monopoly",
+  "version": "1.0.0",
+  "description": "## Play Online https://goo.gl/mFvHvU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geeeeeeeeek/monopoly.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geeeeeeeeek/monopoly/issues"
+  },
+  "homepage": "https://github.com/geeeeeeeeek/monopoly#readme",
+  "dependencies": {
+    "three": "^0.158.0"
+  }
+}
